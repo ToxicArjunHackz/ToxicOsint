@@ -17,16 +17,10 @@ This tool connects with an API endpoint and fetches intelligence data like **ful
 - ✅ Join Link https://t.me/+kYNO7zHBJYRhNDdl
 
 - 🚫 COPY PASTER TUMHARI MAA KI CHUTT 4 BAAR
-- 
-𝗧𝗘𝗥𝗜 𝗠𝗔𝗔 𝗞𝗜 𝗖𝗛𝗨𝗧 𝗣𝗘( ‌°❥ ‌°)
 
 
 
-
-
-
-
-
+𝗧𝗘𝗥𝗜 𝗠𝗔𝗔 𝗞𝗜 𝗖𝗛𝗨𝗧 𝗣𝗘( ‌°❥ ‌°
 
 [................................................
 ............../´¯/)............(\¯\ ......
