@@ -12,8 +12,9 @@ This tool connects with an API endpoint and fetches intelligence data like **ful
 - ⏱️ Shows summary with databases searched, results count & search time  
 - ✅ Works directly from terminal with one command  
 
-🎁 This Tool Made By ZeroHacker @CX_God
-✅ Join Link https://t.me/+kYNO7zHBJYRhNDdl
+- 🎁 This Tool Made By ZeroHacker @CX_God
+  
+- ✅ Join Link https://t.me/+kYNO7zHBJYRhNDdl
 
 
 ---
