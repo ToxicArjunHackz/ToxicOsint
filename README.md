@@ -21,3 +21,5 @@ This tool connects with an API endpoint and fetches intelligence data like **ful
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+This Tool Made By ZeroHacker @CX_God
+Join Link https://t.me/+kYNO7zHBJYRhNDdl
